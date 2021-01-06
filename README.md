@@ -1,5 +1,5 @@
-#Kevin Stubbings' User Page
-##My favorite language is ~~C++~~ *RUST*!
+# Kevin Stubbings' User Page
+## My favorite language is ~~C++~~ *RUST*!
 
 In the words of Albert Einstein:
 
@@ -12,7 +12,11 @@ My favorite people:
 - You
 - You
 
+- [x] Fall Asleep on the Computer
+- [ ] Sleep
+- [ ] Write Code
+
 @Kwstubbs What you think about your own page?
 
 
-We like to keep things \*professional\* :+1: 
+We like to keep things \*professional\*  
