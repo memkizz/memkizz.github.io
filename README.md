@@ -23,4 +23,4 @@ My favorite people:
 
 
 We like to keep things \*professional\*  
-Contribution guidelines for this project](/Contributions.md)
+[Contribution guidelines for this project](/Contributions.md)
